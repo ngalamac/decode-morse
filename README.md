@@ -99,7 +99,7 @@ Deploy this project on any server: localhost, live host, cloud host.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add a user interface and implementing a more complex decoding algorithm**
+- [ ] **Add a user interface and implement a more complex decoding algorithm**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +107,7 @@ Deploy this project on any server: localhost, live host, cloud host.
 
 Contributions, issues, and feature requests are welcome!
 
-Just visit the [issues page](https://github.com/ngalamac/decode-morse.git/decode-morse/issues) to chip in your contribution.
+Just visit the [issues page](https://github.com/ngalamac/decode-morse/issues) to chip in your contribution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +126,7 @@ I would like to thank the Microverse community.
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
